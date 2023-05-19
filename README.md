@@ -1,4 +1,4 @@
-# Number-Guessing
+# Number Guessing
 
 Technologies:
 - Python
